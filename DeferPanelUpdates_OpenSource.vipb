@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-12-20 16:55:46" Modified_Date="2022-12-20 17:49:29" Creator="Brent Justice" Comments="" ID="b8a4efc94964513f1b7ac55ccd0ba01e">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-12-20 16:55:46" Modified_Date="2022-12-20 17:51:38" Creator="Brent Justice" Comments="" ID="ce640d5fa3102dafb4a107f2375e632b">
   <Library_General_Settings>
     <Package_File_Name>Blue_Origin_lib_DeferPanelUpdates_OpenSource</Package_File_Name>
-    <Library_Version>1.0.1.4</Library_Version>
+    <Library_Version>1.0.2.5</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -41,7 +41,7 @@
       <Toolkit_VIs>
         <LLB>false</LLB>
         <Preserve_Hierarchy>true</Preserve_Hierarchy>
-        <Path>&lt;user.lib&gt;\Blue Origin\DeferPanelUpdates_Open Source</Path>
+        <Path>&lt;user.lib&gt;\Blue Origin\DeferPanelUpdates_OpenSource</Path>
       </Toolkit_VIs>
       <Examples>
         <LLB>false</LLB>
@@ -217,7 +217,7 @@
         <Path>Source\Defer Panel Updates POLY.vi</Path>
         <VI_Title>Poly API</VI_Title>
       </Items_Data>
-      <GUID>33829185BF9FB4EF6506E4E4B50B06F0</GUID>
+      <GUID>34C48B5047D671D9FFAAC7F03B2706F1</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
